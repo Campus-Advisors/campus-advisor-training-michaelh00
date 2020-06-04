@@ -1,5 +1,4 @@
 Michael Horn
-Hello World !!
 
 # Module 2.2 Assignment
 
